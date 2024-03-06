@@ -84,6 +84,21 @@ Run the development server:
 npm start
 ```
 
+### Run Docker
+
+Build Docker Containers and Images:
+
+```
+docker-compose up --build
+```
+
+Run Docker Server:
+
+```
+docker-compose up
+```
+
+
 ## Run Test Cases
 
 To run test cases for the backend:
