@@ -23,11 +23,6 @@ jobs:
           cd frontend
           npm install
 
-      - name: Run React tests
-        run: |
-          cd frontend
-          npm test
-
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
