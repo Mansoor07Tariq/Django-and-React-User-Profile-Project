@@ -16,7 +16,7 @@ This project is a proof of concept developed using Django and ReactJS with Djang
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/Mansoor07Tariq/Django-and-React-User-Profile-Project.git
 ```
 
 Navigate to the backend directory:
