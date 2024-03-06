@@ -1,0 +1,32 @@
+# Ignore compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore static files directory for Django
+/static/
+
+# Ignore node modules for React
+/frontend/node_modules/
+
+# Ignore compiled JavaScript files for React
+/build/
+
+# Ignore environment files
+/myenv/
+.env 
+
+# Ignore database files
+*.sqlite3
+
+# Ignore IDE files
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.idea/
+
+# Ignore logs
+*.log
+
+# Ignore macOS system files
+.DS_Store
